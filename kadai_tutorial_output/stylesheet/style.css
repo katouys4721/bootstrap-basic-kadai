@@ -192,7 +192,7 @@ p {
 /* ----------------------------------------------- レビュー */
 /* 背景画像を設定 */
 .review_wrapper {
-  background-image: url(../background-reviews.jpg);
+  background-image: url(../img/background-reviews.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
